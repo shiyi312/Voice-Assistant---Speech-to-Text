@@ -1,6 +1,10 @@
 # 🎙️ 语助 · 轻音输入
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/shiyi312/Voice-Assistant---Speech-to-Text/refs/heads/main/%E8%AF%AD%E9%9F%B3%20.ico" width="80" height="80" alt="语助图标">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Platform-UserScript-2ed573?style=for-the-badge&logo=tampermonkey&logoColor=white" alt="Platform">
   <img src="https://img.shields.io/badge/Version-2.3.0-2ed573?style=for-the-badge" alt="Version">
   <img src="https://img.shields.io/badge/License-MIT-2ed573?style=for-the-badge" alt="License">
@@ -107,7 +111,7 @@ git clone https://github.com/shiyi312/Voice-Assistant---Speech-to-Text.git
 
 | 选项 | 可选值 | 说明 |
 |:---|:---|:---|
-| 识别语言 | 中文 / English / 日本語 / 한국어 / 等 | 切换语音识别引擎的语言模型 |
+| 识别语言 | 中文 / English / 日本語 / 한국어 / 等 10 种语言 | 切换语音识别引擎的语言模型 |
 | 识别后自动发送 | 开启 / 关闭 | 识别完成后自动模拟回车提交 |
 | 同时复制到剪贴板 | 开启 / 关闭 | 识别结果自动复制到系统剪贴板 |
 | 显示实时识别文字 | 开启 / 关闭 | 在悬浮球上方显示识别中间结果 |
